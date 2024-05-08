@@ -158,11 +158,11 @@
  <!--More Stats-->
 
  
-
-<details align="center">
+<!--
+<details align="center"> 
   <summary>📈 More Stats</summary>
   <br>
- 
+ -->
 <p align="center">
 <a href="https://github.com/DatlaRakeshVarma"> 
  <!--
@@ -174,9 +174,9 @@
  <a href="https://github.com/DatlaRakeshVarma"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DatlaRakeshVarma&theme=algolia" width="100%" /> </br></br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DatlaRakeshVarma&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatlaRakeshVarma&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DatlaRakeshVarma&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DatlaRakeshVarma&theme=algolia" width="30%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatlaRakeshVarma&theme=algolia" width="30%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DatlaRakeshVarma&theme=algolia" width="30%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
 <a href="https://github.com/DatlaRakeshVarma"> 
@@ -185,7 +185,7 @@
  
   </a> 
   
- [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DatlaRakeshVarma&theme=algolia&card_width=1000)](https://github.com/DatlaRakeshVarma) </br></br>
+ [![𝚐𝚒𝚝𝚑𝚞𝚋 streak](https://github-readme-streak-stats.herokuapp.com/?user=DatlaRakeshVarma&theme=algolia&card_width=1000)](https://github.com/DatlaRakeshVarma) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=DatlaRakeshVarma&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/DatlaRakeshVarma) </br>
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=DatlaRakeshVarma&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/DatlaRakeshVarma) 
 </div>
