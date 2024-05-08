@@ -374,17 +374,17 @@ Currently Coding and Listening
 </div>
 
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/DatlaRakeshVarma">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
  <!--MOON-->
- 
+ <!--
 <a href="https://github.com/walidbosso"> 
   <img width="30" align ="left"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
 <a href="https://github.com/walidbosso"> 
   <img width="30" align ="right"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-
+-->
 
 <!--THANKS-->
  <p align="center">
