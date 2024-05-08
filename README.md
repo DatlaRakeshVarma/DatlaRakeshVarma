@@ -95,7 +95,7 @@
 
 | **Programming_Languages**                           | **Frontend_Tools**                                      | **Backend_Tools**                                       | **Data_Related**                                      | **IDEs/Softwares**                                           | **Other_Tools**                                    |
 | --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
-| <p align="center">[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/walidbosso) </p>| <p align="center"> [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](https://github.com/walidbosso) </p>| <p align="center">[![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)](https://github.com/walidbosso) | <p align="center">[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)](https://github.com/walidbosso) |<p align="center"> [![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)](https://github.com/walidbosso) |  <p align="center">[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/walidbosso)  |
+| <p align="center">[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/DatlaRakeshVarma) </p>| <p align="center"> [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](https://github.com/DatlaRakeshVarma) </p>| <p align="center">[![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)](https://github.com/DatlaRakeshVarma) | <p align="center">[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)](https://github.com/walidbosso) |<p align="center"> [![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)](https://github.com/walidbosso) |  <p align="center">[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/walidbosso)  |
 | <p align="center">[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)](https://github.com/walidbosso) | <p align="center">[![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://github.com/walidbosso) | <p align="center"> [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)](https://github.com/walidbosso) |<p align="center"> [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://github.com/walidbosso)  |
 | <p align="center">[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/walidbosso) | <p align="center"> [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://github.com/walidbosso) | <p align="center">[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://github.com/walidbosso) |  <p align="center">[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=ffffff)](https://github.com/walidbosso) | <p align="center">[![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://github.com/walidbosso) |<p align="center"> [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/walidbosso)  |
 |<p align="center"> [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)](https://github.com/walidbosso) |<p align="center"> [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://github.com/walidbosso) |  <p align="center"> [![Sqllite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/walidbosso)                                                 |<p align="center"> [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)](https://github.com/walidbosso)  |
@@ -107,7 +107,7 @@
 
 
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/DatlaRakeshVarma">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
@@ -117,7 +117,7 @@
 
 
 <h3 align="center">
- <a href="https://github.com/walidbosso">
+ <a href="https://github.com/DatlaRakeshVarma">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/walidbosso">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
@@ -125,7 +125,7 @@
 
 </h3>
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/DatlaRakeshVarma">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
  
@@ -134,19 +134,19 @@
 
 <p align="center">
  <br/>
-<a href="https://github.com/walidbosso"><img align="center" width ="%" src="https://img.shields.io/github/followers/walidbosso?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+<a href="https://github.com/DatlaRakeshVarma"><img align="center" width ="%" src="https://img.shields.io/github/followers/DatlaRakeshVarma?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
 
 
 
 <p align="center"> 
-<a href="https://user-badge.committers.top/morocco/walidbosso"> 
+<a href="https://user-badge.committers.top/morocco/DatlaRakeshVarma"> 
 <!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
 </a></p >
 
  <p align="center">
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/DatlaRakeshVarmao">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DatlaRakeshVarma&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
 
 </a>
 
@@ -164,18 +164,18 @@
   <br>
  
 <p align="center">
-<a href="https://github.com/walidbosso"> 
+<a href="https://github.com/DatlaRakeshVarma"> 
 <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+14/02/24)&edge_flat=true" width="">    
 </a></p>
 
 <p align="center">
 <div align="center">
- <a href="https://github.com/walidbosso"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidbosso&theme=algolia" width="100%" /> </br></br>
+ <a href="https://github.com/DatlaRakeshVarma"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DatlaRakeshVarma&theme=algolia" width="100%" /> </br></br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidbosso&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidbosso&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidbosso&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DatlaRakeshVarma&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatlaRakeshVarma&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DatlaRakeshVarma&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
 <a href="https://github.com/walidbosso"> 
