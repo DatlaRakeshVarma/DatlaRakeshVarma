@@ -223,7 +223,9 @@
   <p align="center">
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin?username=DatlaRakeshVarma\&repo=Portfolio\&theme=algolia)](https://github.com/DatlaRakeshVarma/Portfolio)
-[![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/walidbosso/SpringBoot_Football_Matches)
+[![Landing-Page](https://github-readme-stats.vercel.app/api/pin?username=DatlaRakeshVarma\&repo=Landing-Page\&theme=algolia)](https://github.com/DatlaRakeshVarma/Landing-Page)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin?username=DatlaRakeshVarma\&repo=Calculator\&theme=algolia)](https://github.com/DatlaRakeshVarma/Calculator)
+<!--[![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/walidbosso/SpringBoot_Football_Matches)
 [![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/walidbosso/Laravel_pharmacy_management)
 [![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts)
 [![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai)
@@ -245,7 +247,7 @@
 [![Selenium-Web-Testing-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Selenium-Web-Testing-Trello\&theme=holi)](https://github.com/walidbosso/Selenium-Web-Testing-Trello)  
 [![Android_Java_Projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Android_Java_Projects\&theme=algolia)](https://github.com/walidbosso/Android_Java_Projects)
 [![React-native-projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=React-native-projects\&theme=algolia)](https://github.com/walidbosso/React-native-projects)
-
+-->
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 <br/>
 
