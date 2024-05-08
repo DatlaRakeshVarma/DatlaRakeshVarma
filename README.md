@@ -1,10 +1,10 @@
 
 
 
-<a href="https://github.com/DatlaRakeshVarma"> 
+<!--<a href="https://github.com/DatlaRakeshVarma"> 
  <img align="center" src="./images/header.png" width="100%">    
 </a>
-<p align="center">
+<p align="center">-->
 
  
  <!--Header-->
