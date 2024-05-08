@@ -209,10 +209,10 @@
 
 <h3 align="center">
  <a href="https://github.com/DatlaRakeshVarma">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="20" height="20" align="left" /> 
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/DatlaRakeshVarma">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="20" height="20" align="right" />
-   </a> 【﻿Ｃｏｎｔｒｉｂｕｔｉｏｎｓ】 
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿匚ㄖ几ㄒ尺丨乃ㄩㄒ丨ㄖ几丂】 
 
 </h3>
 
@@ -227,7 +227,6 @@
    <img alt="github-snake" src="https://raw.githubusercontent.com/DatlaRakeshVarma/DatlaRakeshVarma/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
 </a>
 </p>
-</br>
 
 <!--More REPOSITORIES-->
 <!--
