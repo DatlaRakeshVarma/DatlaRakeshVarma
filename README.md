@@ -335,6 +335,7 @@ Currently Coding and Listening
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/DatlaRakeshVarma)
 -->
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+<!--
 <details align="center">
   <summary>📁 Repositories</summary>
   <br>
@@ -347,7 +348,7 @@ Currently Coding and Listening
 </br>
 </p>
 </details>
-
+-->
 <!-- views-->
   <img align="left" width="0px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
 
@@ -394,7 +395,9 @@ Currently Coding and Listening
 </a>
 
 </div>
-
+ <p align="center">
+  <a href="https://github.com/DatlaRakeshVarma"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+</p>
 
 <a href="https://github.com/DatlaRakeshVarma">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
@@ -415,14 +418,12 @@ Currently Coding and Listening
   -->
 </p>
 
-<p align="center">
+<!--<p align="center">
 ⏳ 𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
 <br/>
 </p>
+-->
 
- <p align="center">
-  <a href="https://github.com/DatlaRakeshVarma"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
-</p>
 
 
 <!--
