@@ -212,8 +212,8 @@
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/DatlaRakeshVarma">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿匚ㄖ几ㄒ尺丨乃ㄩㄒ丨ㄖ几丂】 
-
+   </a>  
+【﻿ᙅOᑎTᖇIᙖᙀTIOᑎS】
 </h3>
 
 <a href="https://github.com/DatlaRakeshVarma">
