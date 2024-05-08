@@ -317,7 +317,7 @@ Currently Coding and Listening
 </a>
 
 
-[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/DatlaRakeshVarma)
 
 
 
@@ -366,7 +366,9 @@ Currently Coding and Listening
 <br/>
 
 <a href="https://github.com/walidbosso"> 
+ <!--
  <img align="center" src="./images/skills.png" width="100%">   
+ -->
 </a>
 
 </div>
@@ -386,13 +388,15 @@ Currently Coding and Listening
 
 <!--THANKS-->
  <p align="center">
+  <!--
 <a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+  -->
 </p>
 
 
 
  <p align="center">
-  <a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+  <a href="https://github.com/DatlaRakeshVarma"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
 </p>
 
 
