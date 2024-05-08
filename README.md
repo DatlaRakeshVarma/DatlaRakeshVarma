@@ -174,9 +174,9 @@
  <a href="https://github.com/DatlaRakeshVarma"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DatlaRakeshVarma&theme=algolia" width="100%" /> </br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DatlaRakeshVarma&theme=algolia" width="32%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatlaRakeshVarma&theme=algolia" width="32%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DatlaRakeshVarma&theme=algolia" width="32%" align="center" title="🦉 Night owl" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DatlaRakeshVarma&theme=algolia" width="33%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatlaRakeshVarma&theme=algolia" width="33%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DatlaRakeshVarma&theme=algolia" width="33%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
 <a href="https://github.com/DatlaRakeshVarma"> 
