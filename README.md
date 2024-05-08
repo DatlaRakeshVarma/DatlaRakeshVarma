@@ -335,7 +335,7 @@ Currently Coding and Listening
 
 <p align="center">
 ⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
-<br/><br/>
+<br/>
 </p>
 
 <p align="center">
@@ -344,7 +344,6 @@ Currently Coding and Listening
  -->
 </p>
 
-<br/>
 
 
   
@@ -363,7 +362,6 @@ Currently Coding and Listening
  </p>
 </details>
 
-<br/>
 
 <a href="https://github.com/walidbosso"> 
  <!--
