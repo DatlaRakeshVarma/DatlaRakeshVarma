@@ -222,7 +222,7 @@
 
   <p align="center">
 
-[![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=DatlaRakeshVarma\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin?username=DatlaRakeshVarma\&repo=Portfolio\&theme=algolia)](https://github.com/DatlaRakeshVarma/Portfolio)
 [![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/walidbosso/SpringBoot_Football_Matches)
 [![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/walidbosso/Laravel_pharmacy_management)
 [![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts)
