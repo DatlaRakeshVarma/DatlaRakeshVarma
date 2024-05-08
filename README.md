@@ -41,7 +41,7 @@
 ### Congratulations you found me
 
 - 👨‍💻 I’m currently working on web development technologies like `React.js`, `Node.js` etc.
-- 📚 I’m currently learning **SOAP, Jenkins and Sonar** 😅
+- 📚 I’m currently learning **SOAP, Jenkins and Sonar** 
 - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
 
 
@@ -280,7 +280,7 @@
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
 
 <!--spotify CARD-->
-
+<!--
 <br>
 <h4 align="center">
 Currently Coding and Listening
@@ -290,9 +290,9 @@ Currently Coding and Listening
 
   
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
-
+-->
 <!--MORE SONGS-->
-
+<!--
 <details align="center">
   <summary>💚 More Songs & More things</summary>
   <br>
@@ -301,7 +301,7 @@ Currently Coding and Listening
 <a href="https://github.com/walidbosso"> 
   <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21omxceo7j24upe246denzrgy" alt="Data Card for Spotify">
 </a>
-  
+  -->
 <!--QUOTE-->
 <br/><br/>
   <div align="center">
@@ -311,7 +311,7 @@ Currently Coding and Listening
  <img align="center" src="./images/city.gif" width="60%" align="center">   
 </a>
 
- 
+ -->
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/walidbosso)
 
 
