@@ -17,7 +17,7 @@
 <p align="center">
  
 <a href="https://github.com/DatlaRakeshVarma"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Datla+Rakesh+Varma;Under-Graduate+Student+%7C+Computer+Science+Engineering+;Aspiring+Front-End+Developer+%7C+Cplusplus; ; " alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Datla+Rakesh+Varma;Under-Graduate+Student+%7C+Computer+Science+Engineering+;Aspiring+Front-End+Developer+%7C+C%2B%2B; ; " alt="Typing SVG" />
 </a>
 
 <br/>
