@@ -38,7 +38,7 @@
 </a>
 
 
-### Congratulations you found me
+<!--### Congratulations-->
 
 - 👨‍💻 I’m currently working on web development technologies like `React.js`, `Node.js` etc.
 - 📚 I’m currently learning **SOAP, Jenkins and Sonar** 
