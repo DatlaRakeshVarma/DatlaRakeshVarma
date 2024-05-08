@@ -317,7 +317,7 @@ Currently Coding and Listening
 </a>
 
 
-[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=300&height=150)](https://github.com/DatlaRakeshVarma)
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=300&height=200)](https://github.com/DatlaRakeshVarma)
 
 
 
