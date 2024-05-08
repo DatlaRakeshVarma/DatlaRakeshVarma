@@ -316,13 +316,8 @@ Currently Coding and Listening
  -->
 </a>
 
-<div style="text-align:center;">
-  <a href="https://github.com/DatlaRakeshVarma">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Refresh to see another quote" style="max-width:100%; height:auto;">
-  </a>
-</div>
 
-<!--[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=100&height=100)](https://github.com/DatlaRakeshVarma)-->
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/DatlaRakeshVarma)
 
 
 
