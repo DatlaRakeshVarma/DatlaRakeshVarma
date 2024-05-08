@@ -307,12 +307,14 @@ Currently Coding and Listening
 </a>
   -->
 <!--QUOTE-->
-<br/><br/>
+<br/>
   <div align="center">
 
 
 <a href="https://github.com/DatlaRakeshVarma"> 
- <img align="center" src="./images/city.gif" width="60%" align="center">   
+ <!--
+ <img align="center" src="./images/city.gif" width="60%" align="center">  
+ -->
 </a>
 
 
