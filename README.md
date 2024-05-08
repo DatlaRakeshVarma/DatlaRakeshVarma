@@ -103,14 +103,6 @@
 | <p align="center"> [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/walidbosso) |<p align="center">[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/walidbosso) |<p align="center"> [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://github.com/walidbosso) | <p align="center"> [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/walidbosso)  | <p align="center">[![Postman](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)](https://github.com/walidbosso)                                                  |                                            |
 | <p align="center">[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/walidbosso) |<p align="center">[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/walidbosso) | <p align="center">[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/walidbosso) | <p align="center"> [![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://github.com/walidbosso)   |  <p align="center"> [![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://github.com/walidbosso)      |  <p align="center">[![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)](https://github.com/walidbosso)  |                                                 |
 
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/walidbosso/details/certifications" title="💻 My Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
-<a href="https://www.linkedin.com/in/walidbosso/details/education" title="🎓 Master's in Computer Science Engineering, University Abdelmalek Essaâd"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
- 
-</p>
 </div>
 
 
