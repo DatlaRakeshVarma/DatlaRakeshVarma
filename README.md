@@ -202,6 +202,23 @@
 </p >
 </details>
 
+  <a href="https://github.com/DatlaRakeshVarma">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+
+<h3 align="center">
+ <a href="https://github.com/DatlaRakeshVarma">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/DatlaRakeshVarma">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿Ｃｏｎｔｒｉｂｕｔｉｏｎｓ】 
+
+</h3>
+
+<a href="https://github.com/DatlaRakeshVarma">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 <!--SNAKE-->
 
 
@@ -210,10 +227,10 @@
    <img alt="github-snake" src="https://raw.githubusercontent.com/DatlaRakeshVarma/DatlaRakeshVarma/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
 </a>
 </p>
-
+</br>
 
 <!--More REPOSITORIES-->
-
+<!--
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 <details align="center">
   <summary>📁 Repositories</summary>
@@ -247,9 +264,8 @@
 [![Android_Java_Projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Android_Java_Projects\&theme=algolia)](https://github.com/walidbosso/Android_Java_Projects)
 [![React-native-projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=React-native-projects\&theme=algolia)](https://github.com/walidbosso/React-native-projects)
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
--->
 <br/>
-
+-->
 
 
  </p>
@@ -316,10 +332,22 @@ Currently Coding and Listening
  -->
 </a>
 
-
+<!--
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/DatlaRakeshVarma)
+-->
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+<details align="center">
+  <summary>📁 Repositories</summary>
+  <br>
 
+  <p align="center">
 
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin?username=DatlaRakeshVarma\&repo=Portfolio\&theme=algolia)](https://github.com/DatlaRakeshVarma/Portfolio)
+[![Landing-Page](https://github-readme-stats.vercel.app/api/pin?username=DatlaRakeshVarma\&repo=Landing-Page\&theme=algolia)](https://github.com/DatlaRakeshVarma/Landing-Page)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin?username=DatlaRakeshVarma\&repo=Calculator\&theme=algolia)](https://github.com/DatlaRakeshVarma/Calculator)
+</br>
+</p>
+</details>
 
 <!-- views-->
   <img align="left" width="0px" src="https://visitcount.itsvg.in/api?id=walidbosso&label=Profile%20Views&color=1&icon=3&pretty=true" />
@@ -333,10 +361,7 @@ Currently Coding and Listening
 
 
 
-<p align="center">
-⏳  𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
-<br/>
-</p>
+
 
 <p align="center">
  <!--
@@ -391,7 +416,10 @@ Currently Coding and Listening
   -->
 </p>
 
-
+<p align="center">
+⏳ 𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
+<br/>
+</p>
 
  <p align="center">
   <a href="https://github.com/DatlaRakeshVarma"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
