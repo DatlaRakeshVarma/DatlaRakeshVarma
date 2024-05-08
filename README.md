@@ -144,7 +144,7 @@
 </a></p >
 
  <p align="center">
-<a href="https://github.com/DatlaRakeshVarmao">
+<a href="https://github.com/DatlaRakeshVarma">
 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DatlaRakeshVarma&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
 
@@ -204,8 +204,8 @@
 
 
 <p align="center">
-<a href="https://github.com/walidbosso">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+<a href="https://github.com/DatlaRakeshVarma">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/DatlaRakeshVarma/DatlaRakeshVarma/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
 </a>
 </p>
 
@@ -219,7 +219,7 @@
 
   <p align="center">
 
-[![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management)
+[![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=DatlaRakeshVarma\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management)
 [![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/walidbosso/SpringBoot_Football_Matches)
 [![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/walidbosso/Laravel_pharmacy_management)
 [![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts)
