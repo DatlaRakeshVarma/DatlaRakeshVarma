@@ -263,7 +263,7 @@
 <a href="https://github.com/walidbosso">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
-
+<!--
 <a href="https://github.com/walidbosso">
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" >
  <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
@@ -277,13 +277,13 @@
  <h2 align="center" width="20" >
    【H o b b i e s】
 </h2>
-
-
+-->
+<!--
 <a href="https://github.com/walidbosso"> 
 <img align="left" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" ></a>
 <a href="https://github.com/walidbosso"> 
  <img align="right"  src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="70" height="70" > </a>
-
+-->
 <!--spotify CARD-->
 <!--
 <br>
@@ -386,9 +386,9 @@ Currently Coding and Listening
 
 <!--THANKS-->
  <p align="center">
-  
+  <!--
 <a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
-  
+  -->
 </p>
 
 
