@@ -175,7 +175,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DatlaRakeshVarma&theme=algolia" width="100%" /> </br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DatlaRakeshVarma&theme=algolia" width="30%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatlaRakeshVarma&theme=algolia" width="30%" align="right" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatlaRakeshVarma&theme=algolia" width="29%" align="right" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DatlaRakeshVarma&theme=algolia" width="30%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
