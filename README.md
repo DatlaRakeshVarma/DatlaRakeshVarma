@@ -321,7 +321,7 @@ Currently Coding and Listening
 </a>
   -->
 <!--QUOTE-->
-<br/><br/>
+<br/></br>
   <div align="center">
 
 
@@ -334,7 +334,7 @@ Currently Coding and Listening
 <!--
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/DatlaRakeshVarma)
 -->
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### sʜᴏᴡ sᴏᴍᴇ 💙 ʙʏ sᴛᴀʀʀɪɴɢ ⭐ sᴏᴍᴇ ᴏғ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs!
 <!--
 <details align="center">
   <summary>📁 Repositories</summary>
@@ -357,7 +357,6 @@ Currently Coding and Listening
 
 
 </div>
-<br/>
 
 
 
