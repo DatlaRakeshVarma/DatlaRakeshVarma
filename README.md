@@ -339,8 +339,9 @@ Currently Coding and Listening
 </p>
 
 <p align="center">
+ <!--
 <a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/clock.svg" alt="Clock" width="200px" height="200px" title="⌚ Front-End"></a><a href="https://github.com/walidbosso" title="Animated SVG clock"><img src="./images/xlzpyflf.png" alt="Clock" width="200px" height="200px" title="⚙️ Back-End"></a>
- 
+ -->
 </p>
 
 <br/>
@@ -348,7 +349,9 @@ Currently Coding and Listening
 
   
 <a href="https://github.com/walidbosso"> 
+ <!--
  <img align="center" src="./images/citytheme.gif" width="60%" >   
+ -->
 </a>
 
 
