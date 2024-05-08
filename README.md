@@ -214,7 +214,7 @@
 
 <!--More REPOSITORIES-->
 
-
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 <details align="center">
   <summary>📁 Repositories</summary>
   <br>
@@ -246,15 +246,14 @@
 [![Selenium-Web-Testing-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Selenium-Web-Testing-Trello\&theme=holi)](https://github.com/walidbosso/Selenium-Web-Testing-Trello)  
 [![Android_Java_Projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Android_Java_Projects\&theme=algolia)](https://github.com/walidbosso/Android_Java_Projects)
 [![React-native-projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=React-native-projects\&theme=algolia)](https://github.com/walidbosso/React-native-projects)
--->
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+-->
 <br/>
 
 
 
  </p>
 </details>
-
 
 <!--SPOTIFY-->
 
@@ -292,7 +291,7 @@ Currently Coding and Listening
  <div align="center">
 
 
-  
+  <!--
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21omxceo7j24upe246denzrgy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/walidbosso)
 -->
 <!--MORE SONGS-->
@@ -307,7 +306,7 @@ Currently Coding and Listening
 </a>
   -->
 <!--QUOTE-->
-<br/>
+<br/><br/>
   <div align="center">
 
 
@@ -318,7 +317,7 @@ Currently Coding and Listening
 </a>
 
 
-[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/DatlaRakeshVarma)
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=300&height=150)](https://github.com/DatlaRakeshVarma)
 
 
 
