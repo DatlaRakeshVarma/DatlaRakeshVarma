@@ -41,8 +41,8 @@
 <!--### Congratulations-->
 
 - 👨‍💻 I’m currently working on web development technologies like `React.js`, `Node.js` etc.
-- 📚 I’m currently learning <!--**SOAP, Jenkins and Sonar** -->
-- 💪🏼 Future Goals: <!--Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.-->
+- 📚 I’m currently learning **Next.js and AngularJS etc.**
+- 💪🏼 Future Goals: Learn more technologies and stay updated - Never stop creating new ideas.
 
 
 
