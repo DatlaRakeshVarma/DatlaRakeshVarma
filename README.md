@@ -57,7 +57,7 @@
   <a href="https://my-portfolio-drv.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
   <a href="datla.rakeshvarma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <!--   <a href="https://api.whatsapp.com/send?phone=+212658930956&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a> -->
-  <a href="https://t.me/rakeshvarma1" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a>
+<!--  <a href="https://t.me/rakeshvarma1" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a> -->
   <a href="https://drive.google.com/file/d/1iGJpXE1r0xYHiuYPZlYEZgNLgB0E5TZk/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20my%20Resume-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
  
 </p>
