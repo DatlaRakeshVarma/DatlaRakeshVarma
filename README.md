@@ -41,7 +41,7 @@
 <!--### Congratulations-->
 
 - 👨‍💻 I’m currently working on web development technologies like `React.js`, `Node.js` etc.
-- 📚 I’m currently learning **Next.js and AngularJS etc.**
+- 📚 I’m currently learning **Next.js and DSA etc.**
 - 💪🏼 Future Goals: Learn more technologies and stay updated - Never stop creating new ideas.
 
 
@@ -54,11 +54,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/datla-rakesh-varma-367b83258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+  <a href="https://my-portfolio-drv.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
   <a href="datla.rakeshvarma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <!--   <a href="https://api.whatsapp.com/send?phone=+212658930956&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white" /></a> -->
   <a href="https://t.me/rakeshvarma1" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white" /></a><br>
-  <a href=""><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1iGJpXE1r0xYHiuYPZlYEZgNLgB0E5TZk/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20my%20Resume-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
  
 </p>
 
